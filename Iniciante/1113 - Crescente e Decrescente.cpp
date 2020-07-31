@@ -15,7 +15,6 @@ int main() {
     resposta = (X>Y)?"Decrescente":"Crescente";
     cout<< resposta<<endl;
      scanf ("%d %d", &X, &Y);
-
     }
 
     return 0;
